@@ -1,10 +1,10 @@
 import React from "react";
+import Lid from "./features/lid";
 
 const Leads = () => {
     return (
         <div>
-            <h1>Lidlar sahifasi</h1>
-            <p>Bu yerda lidlar bilan ishlash uchun funksionallar bo'ladi.</p>
+            <Lid />
         </div>
     );
 };
