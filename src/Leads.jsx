@@ -1,4 +1,3 @@
-import React from "react";
 import Lid from "./features/lid";
 
 const Leads = () => {
